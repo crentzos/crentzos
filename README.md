@@ -32,6 +32,6 @@ Hi, I'm Rentzos Christos, an aspiring Software Developer with a passion for buil
 - ## 📫 How to Reach Me
 
 - **LinkedIn**: [Rentzos Christos](https://www.linkedin.com/in/christos-rentzos/)
-- **GitHub**: [crentzos](https://github.com/crentzos) – Check out more about my work and interests.
+- **GitHub**: [crentzos](https://github.com/crentzos)
 - **Email**: [rentzosc@gmail.com](mailto:rentzosc@gmail.com)
 
